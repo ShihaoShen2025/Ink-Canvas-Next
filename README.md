@@ -6,7 +6,7 @@
 
 ## 总目标
 
-- 使用 WPF 的新原生 Fluent UI（正在观望[项目发展](https://github.com/dotnet/wpf/issues/8538)，现阶段可能会使用原生无主题 WPF 或 [iUWM](https://github.com/iNKORE-NET/UI.WPF.Modern) 或 [WinUI 3](https://github.com/microsoft/microsoft-ui-xaml)）
+- 使用 WPF 的新原生 Fluent UI（正在观望[项目发展](https://github.com/dotnet/wpf/issues/8538)，现阶段可能会使用原生无主题 WPF 或 ~~[iUWM](https://github.com/iNKORE-NET/UI.WPF.Modern)~~ 或 [WinUI 3](https://github.com/microsoft/microsoft-ui-xaml)）
 - 使用`InkCanvas`控件实现桌面批注和白板功能
 - Fluent UI 设置界面
 - 系统要求至少 Windows 10（甚至 Windows 11！）
