@@ -12,7 +12,7 @@
 
 - Fluent UI 设置界面
 
-- 系统要求至少 Windows 10（甚至 Windows 11！）
+- 系统要求目前至少 Windows 11 25H2
 
 - ……
 ## 开发计划
