@@ -1,6 +1,8 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ink Canvas Next", "Ink Canvas Next.csproj", "{86EC89C1-0D52-493F-BAA0-A22B56A6AB94}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ICN-WinUI", "ICN-WinUI\ICN-WinUI.csproj", "{72901575-F341-4156-A5DB-3670188D1C2C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ink Canvas Next", "Ink Canvas Next\Ink Canvas Next.csproj", "{9BA8B8BC-5A5E-4441-A37F-ECCE0E727CCF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -8,9 +10,13 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{86EC89C1-0D52-493F-BAA0-A22B56A6AB94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{86EC89C1-0D52-493F-BAA0-A22B56A6AB94}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{86EC89C1-0D52-493F-BAA0-A22B56A6AB94}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{86EC89C1-0D52-493F-BAA0-A22B56A6AB94}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72901575-F341-4156-A5DB-3670188D1C2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72901575-F341-4156-A5DB-3670188D1C2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72901575-F341-4156-A5DB-3670188D1C2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72901575-F341-4156-A5DB-3670188D1C2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9BA8B8BC-5A5E-4441-A37F-ECCE0E727CCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BA8B8BC-5A5E-4441-A37F-ECCE0E727CCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BA8B8BC-5A5E-4441-A37F-ECCE0E727CCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BA8B8BC-5A5E-4441-A37F-ECCE0E727CCF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
