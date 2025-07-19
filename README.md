@@ -23,6 +23,7 @@
 
 - 系统要求目前至少 Windows 11 25H2（未来可能下调至 Windows 10）
 
+- **支持 [PowerPoint 网页版](https://m365.cloud.microsoft/launch/powerpoint/)、[希沃 Bloom](https://bloom.seewo.com/) 和[爱学班班（鸿合π6）](https://www.aixuebanban.com/)！**
 - ……
 ## 开发计划
 
