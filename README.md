@@ -13,7 +13,7 @@
 灵感来自 [Ink Canvas by WXRIW](https://github.com/WXRIW/Ink-Canvas)、[Ink Canvas Artistry](https://github.com/WuChanging/Ink-Canvas)、[Ink Canvas Plus](https://www.khyan.top/apps/Ink-Canvas-Plus)、[Ink Canvas for Class](https://github.com/InkCanvas/InkCanvasForClass)、[Ink Canvas Better](https://github.com/BaiYang2238/Ink-Canvas-Better)、[InkCanvasForClass Community Edition](https://github.com/InkCanvasForClass/community)以及其他相关软件。
 -->
 
-## 总目标
+## ~~总目标~~ 大饼
 
 - 使用 WPF 的新原生 Fluent UI（正在观望[项目发展](https://github.com/dotnet/wpf/issues/8538)，现阶段可能会使用原生无主题 WPF 或 ~~[iUWM](https://github.com/iNKORE-NET/UI.WPF.Modern)~~ 或 [WinUI 3](https://github.com/microsoft/microsoft-ui-xaml)）
 
@@ -25,7 +25,7 @@
 
 - **支持 [PowerPoint 网页版](https://m365.cloud.microsoft/launch/powerpoint/)、[希沃 Bloom](https://bloom.seewo.com/) 和[爱学班班（鸿合π6）](https://www.aixuebanban.com/)！**
 
-- **板书美化功能，启发自[希沃白板及希沃 AI 授课助手](https://help.seewo.com/easiscreenpercep/ztLYSSMS7r)**
+- **板书美化功能，启发自[希沃白板及希沃 AI 授课助手](https://help.seewo.com/easiscreenpercep/ztLYSSMS7r)** <!--希沃白板能做到，我就不相信原生WPF做不到-->
 
 - ……
 ## 开发计划
