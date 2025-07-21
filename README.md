@@ -23,7 +23,7 @@
 
 - 系统要求目前至少 Windows 11 25H2（未来可能下调至 Windows 10）
 
-- **支持 [PowerPoint 网页版](https://m365.cloud.microsoft/launch/powerpoint/)、[希沃 Bloom](https://bloom.seewo.com/) 和[爱学班班（鸿合π6）](https://www.aixuebanban.com/)！**
+- **支持 [PowerPoint 网页版](https://powerpoint.cloud.microsoft/)、[希沃 Bloom](https://bloom.seewo.com/) 和[爱学班班（鸿合π6）](https://www.aixuebanban.com/)！**
 
 - **板书美化功能，启发自[希沃白板及希沃 AI 授课助手](https://help.seewo.com/easiscreenpercep/ztLYSSMS7r)** <!--希沃白板能做到，我就不相信原生WPF做不到-->
 
